@@ -16,8 +16,8 @@ The command is called `obliterate`. This command will perform the following acti
 
 ## How to use
 
-1. Replace `YOUR_BOT_TOKEN_HERE` with your actual bot token at line 126.
-2. Replace `YOUR_ID_HERE` with your actual ID at line 31.
+1. Replace `YOUR_BOT_TOKEN_HERE` with your actual bot token at line 128.
+2. Replace `YOUR_ID_HERE` with your actual ID at line 33.
 3. Save the code and run it.
 
 ## Is that it?
