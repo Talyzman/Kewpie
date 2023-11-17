@@ -31,6 +31,7 @@ Yes, that's it! Make sure that the bot has admin permissions in the server you w
 
 ![terminal](https://github.com/Talyzman/Kewpie/assets/135982218/8330e247-696c-4d1e-b5fd-7978fcdf4f1a)
 
+### Live raid UwU
 
 https://github.com/Talyzman/Kewpie/assets/135982218/90fc69c8-3c8e-49b7-b469-e11fdaa1aa36
 
