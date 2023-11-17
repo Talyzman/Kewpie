@@ -9,7 +9,7 @@ The command is called `obliterate`. This command will perform the following acti
 * Delete all channels
 * Delete all roles
 * Delete all emojis
-* Ban all members
+* Bans all members
 * Create channels for the duration of 30 seconds with everyone pings in loop in all of them
 
 **WARNING:** This command will completely destroy your server. Use it at your own risk.
