@@ -1,3 +1,5 @@
+// Check README.md if you don't understand stuff...
+
 const { Client, GatewayIntentBits, Events, EmbedBuilder, PermissionsBitField } = require('discord.js');
 
 const raider = new Client({
