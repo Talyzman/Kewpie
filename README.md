@@ -26,6 +26,9 @@ Yes, that's it! Make sure that the bot has admin permissions in the server you w
 
 ## Demonstration
 
+### Terminal after a successful raid
+
+
 ![terminal](https://github.com/Talyzman/Kewpie/assets/135982218/8330e247-696c-4d1e-b5fd-7978fcdf4f1a)
 
 
