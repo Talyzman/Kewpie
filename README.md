@@ -23,3 +23,7 @@ The command is called `obliterate`. This command will perform the following acti
 ## Is that it?
 
 Yes, that's it! Make sure that the bot has admin permissions in the server you want to raid/nuke.
+
+![terminal](https://github.com/Talyzman/Kewpie/assets/135982218/8330e247-696c-4d1e-b5fd-7978fcdf4f1a)
+https://github.com/Talyzman/Kewpie/assets/135982218/90fc69c8-3c8e-49b7-b469-e11fdaa1aa36
+
